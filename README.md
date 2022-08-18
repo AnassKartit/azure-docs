@@ -22,7 +22,7 @@ Install the following tools:
 
 #### Install
 
-Follow the instructions provided in the [Install content authoring tools](/contribute/get-started-setup-tools) from our contributor guide.
+Follow the instructions provided in the [Install content authoring tools](https://github.com/MicrosoftDocs/Contribute/blob/main/Contribute/get-started-setup-github.md) from our contributor guide.
 
 ## License
 
